@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+build-debugger.js
+.idea
+
+# service 配置项
+service/node_modules/
+
+# web 配置项
+web/node_modules/
